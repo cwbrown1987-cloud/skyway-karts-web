@@ -1,7 +1,7 @@
 {
- "build": 13,
- "name": "0.9.4",
+ "build": 14,
+ "name": "0.9.5",
  "min_apk": 13,
- "size": 5915856,
- "sha256": "634add1b85ba83149657afa2b0df688f8565ef83b25efaee095ab56b18f51674"
+ "size": 7744312,
+ "sha256": "3a9ed0744182cd3b09948f970ada047188e93565116d0a0a00eb8ed1338f26f6"
 }
