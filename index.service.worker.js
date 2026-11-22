@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795328995|5592563';
+const CACHE_VERSION = '1795333113|5631658';
 /** @type {string} */
 const CACHE_PREFIX = 'Skyway Karts-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
